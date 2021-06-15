@@ -3,7 +3,7 @@
 
 A light KDE Plasma colorscheme.
 
-<img src="gallery/dolphin.png" alt="Dolphin File Manager using Linen" />
+<img src="gallery/preview.png" alt="Preview of Linen" />
 
 </div>
 
@@ -23,9 +23,9 @@ That's it, enjoy!
 
 <div align="center">
 
+<img src="gallery/dolphin.png" alt="Dolphin File Manager" />
 <img src="gallery/dev.png" alt="Development" />
 <img src="gallery/settings.png" alt="Plasma's System Settings" />
-<img src="gallery/filepicker.png" alt="Plasma's Filepicker" />
 <img src="gallery/panel.png" alt="Plasma's Panel" />
 <img src="gallery/krunner.png" alt="Plasma's Krunner" />
 
