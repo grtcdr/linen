@@ -3,7 +3,7 @@
 
 A light KDE Plasma colorscheme.
 
-<img src="screenshot.png" alt="Preview" />
+<img src="gallery/dolphin.png" alt="Dolphin File Manager using Linen" />
 
 </div>
 
@@ -14,3 +14,19 @@ A light KDE Plasma colorscheme.
 3. In System Settings, go to Appearance > Global Theme > Select Breeze Light > Click Apply.
 
 That's it, enjoy!
+
+### Gallery
+
+<div align="center">
+
+<img src="gallery/dev.png" alt="Development" />
+<img src="gallery/settings.png" alt="Plasma's System Settings" />
+<img src="gallery/filepicker.png" alt="Plasma's Filepicker" />
+<img src="gallery/panel.png" alt="Plasma's Panel" />
+<img src="gallery/krunner.png" alt="Plasma's Krunner" />
+
+</div>
+
+### Wallpaper
+
+Want to get your hands on the wallpaper? — [Here you go!](https://gradienta.io/shipshape-mood)
