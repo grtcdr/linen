@@ -7,6 +7,8 @@ A light KDE Plasma colorscheme.
 
 </div>
 
+---
+
 ### Installation
 
 1. Move `Linen.colors` to `~/.local/share/color-schemes`
@@ -14,6 +16,8 @@ A light KDE Plasma colorscheme.
 3. In System Settings, go to Appearance > Global Theme > Select Breeze Light > Click Apply.
 
 That's it, enjoy!
+
+---
 
 ### Gallery
 
@@ -26,6 +30,8 @@ That's it, enjoy!
 <img src="gallery/krunner.png" alt="Plasma's Krunner" />
 
 </div>
+
+---
 
 ### Wallpaper
 
