@@ -26,7 +26,6 @@ That's it, enjoy!
 <img src="gallery/dolphin.png" alt="Dolphin File Manager" />
 <img src="gallery/dev.png" alt="Development" />
 <img src="gallery/settings.png" alt="Plasma's System Settings" />
-<img src="gallery/panel.png" alt="Plasma's Panel" />
 <img src="gallery/krunner.png" alt="Plasma's Krunner" />
 
 </div>
@@ -35,4 +34,4 @@ That's it, enjoy!
 
 ### Wallpaper
 
-Want to get your hands on the wallpaper? — [Here you go!](https://gradienta.io/shipshape-mood)
+Want to get your hands on the wallpaper? — [Here you go!](https://gradienta.io/common-yarn)
