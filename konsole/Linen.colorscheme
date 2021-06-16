@@ -83,14 +83,14 @@ Color=213,214,243
 Color=41,41,41
 
 [ForegroundFaint]
-Color=230,225,207
+Color=41,41,41
 
 [ForegroundIntense]
 Color=41,41,41
 
 [General]
-Blur=true
+Blur=false
 ColorRandomization=false
 Description=Linen
-Opacity=0.84
+Opacity=1
 Wallpaper=
