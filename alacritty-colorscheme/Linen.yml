@@ -1,0 +1,29 @@
+# Linen Colorscheme by Aziz Ben Ali (grtcdr)
+colors:
+  bright:
+    black: '#292929'
+    blue: '#50a8e2'
+    cyan: '#00d5d4'
+    green: '#4e937a'
+    magenta: '#896490'
+    red: '#d53734'
+    white: '#d5d6f3'
+    yellow: '#F1C241'
+  cursor:
+    cursor: '#292929'
+    text: '#f9f5f1'
+  normal:
+    black: '#292929'
+    blue: '#50a8e2'
+    cyan: '#00d5d4'
+    green: '#4e937a'
+    magenta: '#896490'
+    red: '#d53734'
+    white: '#d5d6f3'
+    yellow: '#F1C241'
+  primary:
+    background: '#f9f5f1'
+    foreground: '#292929'
+  selection:
+    background: '#e7b5a5'
+    text: '#f9f5f1'

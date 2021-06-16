@@ -1,7 +1,7 @@
 <div align="center">
 <h1>Linen</h1>
 
-A light KDE Plasma colorscheme.
+A light, calm and champagne-like colorscheme.
 
 <img src="gallery/preview.png" alt="Preview of Linen" />
 
@@ -9,29 +9,9 @@ A light KDE Plasma colorscheme.
 
 ---
 
-### Installation
+# Table of Contents
 
-1. Move `Linen.colors` to `~/.local/share/color-schemes`
-2. Launch System Settings > Appearance > Colors > Select Linen > Click Apply.
-3. In System Settings, go to Appearance > Global Theme > Select Breeze Light > Click Apply.
-
-That's it, enjoy!
-
----
-
-### Gallery
-
-<div align="center">
-
-<img src="gallery/dolphin.png" alt="Dolphin File Manager" />
-<img src="gallery/dev.png" alt="Development" />
-<img src="gallery/settings.png" alt="Plasma's System Settings" />
-<img src="gallery/krunner.png" alt="Plasma's Krunner" />
-
-</div>
-
----
-
-### Wallpaper
-
-Want to get your hands on the wallpaper? — [Here you go!](https://gradienta.io/common-yarn)
+- [Startpage](https://github.com/grtcdr/linen/tree/main/startpage)
+- [KDE Plasma Colorscheme](https://github.com/grtcdr/linen/tree/main/plasma)
+- [Alacritty Colorscheme](https://github.com/grtcdr/linen/tree/main/alacritty)
+- [Firefox Theme](https://addons.mozilla.org/en-US/developers/addon/linen-theme/edit)
