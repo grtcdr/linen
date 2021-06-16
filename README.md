@@ -14,4 +14,4 @@ A light, calm and champagne-like colorscheme.
 - [Startpage](https://github.com/grtcdr/linen/tree/main/startpage)
 - [KDE Plasma Colorscheme](https://github.com/grtcdr/linen/tree/main/plasma)
 - [Alacritty Colorscheme](https://github.com/grtcdr/linen/tree/main/alacritty)
-- [Firefox Theme](https://addons.mozilla.org/en-US/developers/addon/linen-theme/edit)
+- [Firefox Theme](https://addons.mozilla.org/en-US/firefox/addon/linen-theme/)
