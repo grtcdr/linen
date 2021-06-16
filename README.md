@@ -11,7 +11,13 @@ A light, calm and champagne-like colorscheme.
 
 # Table of Contents
 
-- [Startpage](https://github.com/grtcdr/linen/tree/main/startpage)
-- [KDE Plasma Colorscheme](https://github.com/grtcdr/linen/tree/main/plasma)
-- [Alacritty Colorscheme](https://github.com/grtcdr/linen/tree/main/alacritty)
-- [Firefox Theme](https://addons.mozilla.org/en-US/firefox/addon/linen-theme/)
+- System
+  - [KDE Plasma Colorscheme](https://github.com/grtcdr/linen/tree/main/plasma)
+
+- Browser
+  - [Startpage](https://github.com/grtcdr/linen/tree/main/startpage)
+  - [Firefox Theme](https://addons.mozilla.org/en-US/firefox/addon/linen-theme/)
+
+- Terminal
+  - [Alacritty Colorscheme](https://github.com/grtcdr/linen/tree/main/alacritty)
+  - [Konsole Colorscheme](https://github.com/grtcdr/linen/tree/main/konsole)
