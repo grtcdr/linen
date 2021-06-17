@@ -8,10 +8,6 @@
 
 #### KDE Store
 
-<div align="center">
-    <img src="gallery/kde-store.png" alt="Linen in the KDE Store" />
-</div>
-
 Linen is [available in the KDE Store](https://store.kde.org/p/1539027/).
 
 1. Launch System Settings > Appearance > Colors > Get New Color Schemes...
