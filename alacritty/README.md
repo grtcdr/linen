@@ -5,17 +5,9 @@
 
 ```
 import:
-  - /home/example/.config/alacritty/themes/Linen.yml
+  - /home/you/.config/alacritty/themes/Linen.yml
 ```
 
 3. Make sure there aren't any other instances of `color` mentioned in `alacritty.yml`, if there are, comment them out.
 
 That's it, enjoy!
-
----
-
-### Gallery
-
-<div align="center">
-    <img src="gallery/preview.png" alt="Alacritty colorscheme preview" />
-</div>

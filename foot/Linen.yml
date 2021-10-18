@@ -1,0 +1,26 @@
+# Linen color-scheme by Aziz Ben Ali (grtcdr)
+
+[cursor]
+color=f9f5f1 292929
+
+[colors]
+foreground=292929
+background=f9f5f1
+regular0=292929
+regular1=d53734
+regular2=4e937a
+regular3=f1c241
+regular4=50a8e2
+regular5=896490
+regular6=00d5d4
+regular7=d5d6f3
+bright0=292929
+bright1=d53734
+bright2=4e937a
+bright3=f1c241
+bright4=50a8e2
+bright5=896490
+bright6=00d5d4
+bright7=d5d6f3
+selection-foreground=f9f5f1
+selection-background=e7b5a5
