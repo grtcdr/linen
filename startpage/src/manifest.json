@@ -1,14 +1,11 @@
 {
   "manifest_version": 2,
-  "name": "Linen Startpage",
+  "name": "Linen startpage",
   "author": "grtcdr",
   "version": "1.0.0",
-  "description": "New Tab Startpage using the Linen colorscheme.",
+  "description": "A startpage for the Linen colorscheme.",
   "chrome_url_overrides": {
     "newtab": "index.html"
   },
-  "content_security_policy": "script-src 'self'; object-src 'self';",
-  "web_accessible_resources": [
-    "assets/img/avatar.png"
-  ]
+  "content_security_policy": "script-src 'self'; object-src 'self';"
 }

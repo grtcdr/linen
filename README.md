@@ -1,6 +1,6 @@
 # Linen
 
-<img src="gallery/preview.png" alt="Preview of Linen" width="60%" align="right" />
+<img src="assets/preview.png" alt="Preview of Linen" width="60%" align="right"/>
 
 - System
   - [KDE Plasma Colorscheme](https://github.com/grtcdr/linen/tree/main/plasma)

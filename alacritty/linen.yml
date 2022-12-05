@@ -1,4 +1,3 @@
-# Linen Colorscheme by Aziz Ben Ali (grtcdr)
 colors:
   bright:
     black: '#292929'
@@ -9,12 +8,15 @@ colors:
     red: '#d53734'
     white: '#d5d6f3'
     yellow: '#f1c241'
+
   cursor:
     cursor: '#292929'
     text: '#f9f5f1'
+
   primary:
     background: '#f9f5f1'
     foreground: '#292929'
+
   selection:
     background: '#e7b5a5'
     text: '#f9f5f1'

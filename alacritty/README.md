@@ -1,13 +1,8 @@
-### Installation
+# Linen for Alacritty
 
-1. Move `Linen.yml` to any place you'd like.
-2. In `alacritty.yml`, at the top of the document, import the colorscheme by specifying its path, _for example_:
+<img src="../assets/alacritty.png" alt="A preview of Linen for Alacritty" width="60%"/>
 
-```
-import:
-  - /home/you/.config/alacritty/themes/Linen.yml
-```
+## Installation
 
-3. Make sure there aren't any other instances of `color` mentioned in `alacritty.yml`, if there are, comment them out.
-
-That's it, enjoy!
+Copy the contents of `linen.yml` to your `alacritty.yml`, which is
+usually under `~/.config/alacritty` and then restart `alacritty`.

@@ -1,6 +1,9 @@
-### Installation
+# Linen for Konsole
 
-1. Move `Linen.colorscheme` to `~/.local/share/konsole`
-2. In Konsole's profile settings, select Linen and click Apply.
+<img src="../assets/konsole.png" alt="A preview of Linen for Konsole" width="60%"/>
 
-That's it, enjoy!
+## Installation
+
+Copy the contents of `linen.colorscheme` to your
+`~/.local/share/konsole`, then open Konsole's profile settings, select
+"linen" and click "Apply".
