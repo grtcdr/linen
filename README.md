@@ -1,15 +1,6 @@
-<div align="center">
-<h1>Linen</h1>
+# Linen
 
-A light, calm and champagne-like colorscheme.
-
-<img src="gallery/preview.png" alt="Preview of Linen" />
-
-</div>
-
----
-
-# Table of Contents
+<img src="gallery/preview.png" alt="Preview of Linen" width="60%" align="right" />
 
 - System
   - [KDE Plasma Colorscheme](https://github.com/grtcdr/linen/tree/main/plasma)
@@ -19,5 +10,6 @@ A light, calm and champagne-like colorscheme.
   - [Firefox Theme](https://addons.mozilla.org/en-US/firefox/addon/linen-theme/)
 
 - Terminal
-  - [Alacritty Colorscheme](https://github.com/grtcdr/linen/tree/main/alacritty)
-  - [Konsole Colorscheme](https://github.com/grtcdr/linen/tree/main/konsole)
+  - [Alacritty colorscheme](alacritty)
+  - [Konsole colorscheme](konsole)
+  - [Foot colorscheme](foot)
